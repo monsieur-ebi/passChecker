@@ -1,0 +1,16 @@
+{
+  "name": "phpsandbox",
+  "version": "1.0.0",
+  "description": "Password Checker App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Password",
+    "Checker",
+    "App"
+  ],
+  "author": "Disi Ebizimor Resource",
+  "license": "MIT"
+}
