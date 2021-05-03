@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Password Checker App",
   "main": "index.js",
-  "homepage": "https://monsieur-ebi.github.io/passChecker",
   "scripts": {
     "deploy": "gh-pages -d website"
   },
